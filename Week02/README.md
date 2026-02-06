@@ -1,1 +1,2 @@
 Week 02 assignments
+Virtual detectors in 4D-STEM allow for "post-acquisition experiment re-playing." Since we have the full 2D diffraction pattern at every scan pixel, we can define any detector geometry (Bright Field, ADF, or custom segmented rings) in software after the experiment is finished. This means we don't need to choose our imaging conditions perfectly during the microscope session; we can optimize contrast and resolve different features simply by adjusting our software masks.
